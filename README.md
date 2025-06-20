@@ -49,6 +49,7 @@ Web dashboard displays live readings and allows users to manually toggle applian
 Automation logic: e.g., if the room gets too warm → fan auto‑switches ON.
 
 ✅ Advantages & Improvements over Traditional Systems
+
 Low-cost DIY components instead of expensive proprietary systems
 
 Modular code architecture—easy to maintain and extend
@@ -56,6 +57,7 @@ Modular code architecture—easy to maintain and extend
 Easy self-installation with public Wi‑Fi and web UIs—no professional setup required
 
 🎯 Suggested Enhancements
+
 Add push notifications or email alerts when thresholds are crossed.
 
 Integrate data logging/charting using a database or IoT service.
