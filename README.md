@@ -4,6 +4,7 @@
 This project is a smart home automation system built using Arduino and IoT sensors to monitor and control room conditions.
 
 🌟 Key Features:
+
 Temperature Monitoring: Uses sensors like DHT11/DHT22 to check room temperature and humidity.
 
 Light Detection: LDR sensor detects ambient light to automate lights based on brightness levels.
@@ -15,6 +16,7 @@ Remote Access: Controlled via mobile app or web interface (using Wi-Fi module li
 Energy Efficient: Helps reduce power consumption by automating appliances.
 
 ⚙️ Tech Stack & Components:
+
 Arduino UNO / NodeMCU
 
 DHT11/DHT22 (Temperature & Humidity Sensor)
